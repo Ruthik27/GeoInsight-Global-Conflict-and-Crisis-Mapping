@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Leaflet Map</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.7.1/leaflet.css" />
+    <link rel="stylesheet" href="style.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.7.1/leaflet.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.5.0/MarkerCluster.Default.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.5.0/MarkerCluster.css" />
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.5.0/leaflet.markercluster.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.13/css/select2.min.css" rel="stylesheet" />
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.13/js/select2.min.js"></script>
+</head>
+<body>
+
+    
+    <div class="filter-group">
+        <label for="disorderType">Disorder Type</label>
+        <select id="disorderType" class="filter-select" multiple="multiple" ></select>
+    </div>
+    
+    <div class="filter-group">
+        <label for="eventType">Event Type</label>
+        <select id="eventType" class="filter-select" multiple="multiple"></select>
+    </div>
+    
+    <div class="filter-group">
+        <label for="subEventType">Sub Event Type</label>
+        <select id="subEventType" class="filter-select" multiple="multiple"></select>
+    </div>
+    
+    <div class="filter-group">
+        <label for="year">Year</label>
+        <select id="year" class="filter-select" multiple="multiple"></select>
+    </div>
+    
+    <div class="filter-group">
+        <label for="country">Country</label>
+        <select id="country" class="filter-select" multiple="multiple"></select>
+    </div>
+    
+    <div class="filter-group">
+        <label for="region">Region</label>
+        <select id="region" class="filter-select" multiple="multiple"></select>
+    </div>
+    
+
+    <div id="map"></div>
+
+    <script src="script.js"></script>
+</body>
+</html>
