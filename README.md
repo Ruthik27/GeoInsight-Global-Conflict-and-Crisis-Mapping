@@ -126,4 +126,10 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Project Link: [https://github.com/Ruthik27/GeoInsight-Global-Conflict-and-Crisis-Mapping](https://github.com/Ruthik27/GeoInsight-Global-Conflict-and-Crisis-Mapping)
 
+## Support
+
+<img width="409" alt="image" src="https://github.com/Ruthik27/Building_Detection/assets/62241739/cd357b20-f5f3-42cc-884d-75042cd12585">
+
 ---
+
+https://www.cviog.uga.edu/information-technology/
