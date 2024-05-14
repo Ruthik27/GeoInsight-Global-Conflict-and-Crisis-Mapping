@@ -128,6 +128,8 @@ Project Link: [https://github.com/Ruthik27/GeoInsight-Global-Conflict-and-Crisis
 
 ## Support
 
+<img width="410" alt="image" src="https://github.com/Ruthik27/Building_Detection/assets/62241739/5283e144-4209-4b53-836b-e0a5c13ccd33">
+
 <img width="409" alt="image" src="https://github.com/Ruthik27/Building_Detection/assets/62241739/cd357b20-f5f3-42cc-884d-75042cd12585">
 
 ---
