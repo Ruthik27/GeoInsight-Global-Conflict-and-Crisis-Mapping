@@ -132,6 +132,10 @@ Project Link: [https://github.com/Ruthik27/GeoInsight-Global-Conflict-and-Crisis
 
 <img width="409" alt="image" src="https://github.com/Ruthik27/Building_Detection/assets/62241739/cd357b20-f5f3-42cc-884d-75042cd12585">
 
+<img width="369" alt="image" src="https://github.com/Ruthik27/GeoInsight-Global-Conflict-and-Crisis-Mapping/assets/62241739/82336157-be0d-4b33-856c-341ec62c7943">
+
+
+
 ---
 
 https://www.cviog.uga.edu/information-technology/
